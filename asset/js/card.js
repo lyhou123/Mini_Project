@@ -59,8 +59,9 @@ let CarProduct=[
 ]
 let container = document.getElementById('carProductsContainer');
 let html = '';
-CarProduct.forEach(car => {
+CarProduct.forEach((car,index) => {
     html += `
+    <a href="../../html/view.html?carIndex=${index}">
         <div class="bg-[#F3F5F3] w-[262px] h-[349px]">
             <div class="flex justify-center items-center h-full group relative overflow-hidden">
                 <img src="${car.img}" alt="${car.name}">
@@ -73,7 +74,7 @@ CarProduct.forEach(car => {
                 ${car.price} <br>
                 ${car.machine}</p>
             </div>
-        </div>
+        </div></a>
     `;
 });
 container.innerHTML = html;
