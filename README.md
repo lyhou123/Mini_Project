@@ -38,7 +38,7 @@
 <br>
 **Via Git**
 *Clone to your machine*
-`git clone https://github.com/FoundationScholarship/opensource-templates.git`
+`git clone https://github.com/lyhou123/Mini_Project`
 <br>
 2. Run the project with live server
 <br>
@@ -46,7 +46,7 @@ Open [http://localhost:5500](http://localhost:5500) with your browser to see the
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Deployment
- Mini Project [live demo](https://opensource-templates-9xu7.vercel.app/)
+ Mini Project [live demo](https://mini-project-ten-beige.vercel.app/index.html)
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
  ## Contact
 Lyhou Phiv lyhou282@gmail.com
