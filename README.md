@@ -39,6 +39,7 @@
 **Via Git**
 *Clone to your machine*
 `git clone https://github.com/FoundationScholarship/opensource-templates.git`
+<br>
 2. Run the project with live server
 <br>
 Open [http://localhost:5500](http://localhost:5500) with your browser to see the result.
